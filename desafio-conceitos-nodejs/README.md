@@ -91,7 +91,7 @@ Esse desafio deve ser entregue a partir da plataforma Skylab, envie o link do re
 
 ---
 
-Feito com ♥ by PitzTech com a tutoria de [Diego Fernandes](https://github.com/diego3g) :wave:
+Desafio concluido com ♥ by PitzTech com a tutoria de [Diego Fernandes](https://github.com/diego3g) :wave:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/victor-laurentino-do-nascimento/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
