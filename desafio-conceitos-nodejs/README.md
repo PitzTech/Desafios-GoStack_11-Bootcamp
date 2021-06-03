@@ -4,11 +4,7 @@
   Desafio: Conceitos do Node.js
 </h3>
 
-<br/>
-
 <blockquote align="center">“Não espere para plantar, apenas tenha paciência para colher”!</blockquote>
-
-<br/>
 
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/rocketseat/bootcamp-gostack-desafios?color=%2304D361">
